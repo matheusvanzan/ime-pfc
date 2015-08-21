@@ -1,4 +1,4 @@
-# PFC do INSTITUTO MILITAR DE ENGENHARIA
+# PFC do IME
 
 Projeto de fim de curso dos alunos:
 
